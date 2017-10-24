@@ -19,7 +19,7 @@ def using_insert(array, e)
 end
 
 def using_shift(array)
-  return array.shift
+  array.shift
 end
 
 def shift_with_args(array)
