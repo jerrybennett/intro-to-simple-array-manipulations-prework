@@ -15,5 +15,5 @@ def pop_with_args(array)
 end
 
 def using_insert(array, e)
-  
+  array.insert(4, e)
 end
