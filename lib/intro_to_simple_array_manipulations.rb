@@ -17,3 +17,7 @@ end
 def using_insert(array, e)
   array.insert(4, e)
 end
+
+def using_shift(array)
+  return array.shift
+end
